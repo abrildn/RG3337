@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\bin\Debug\net9.0\RG_3337.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\bin\Debug\net9.0\RG_3337.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\bin\Debug\net9.0\RG_3337.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\bin\Debug\net9.0\RG_3337.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\bin\Debug\net9.0\RG_3337.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\refint\RG_3337.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\RG_3337.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\RG_3337\obj\Debug\net9.0\ref\RG_3337.dll
